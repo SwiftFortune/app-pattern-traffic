@@ -122,11 +122,8 @@ In contrast, Non-IVT apps demonstrated **steady, user-driven** engagement patter
 
 This project demonstrates how **data analytics and visualization** can effectively reveal **fraudulent traffic behavior** by studying traffic volume, volatility, and correlation patterns over time.
 
----
-
-## ✍️ Author
 
 **Sachin Hembram**  
 Data Analyst | Machine Learning Enthusiast  
-📧 *sachinhemb@example.com* (replace with your actual email)  
-📊 GitHub: [Your GitHub Profile Link]  
+📧 *sachincmf@gmail.com* 
+
